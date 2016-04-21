@@ -1,0 +1,13 @@
+#main p {
+  color: #858585;
+  width: 97%; }
+
+#main p .redbox {
+  background-color: #F4F4F4;
+  color: #F4F4F4; }
+
+a:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1); }
+
+/*# sourceMappingURL=style.min.css.map */

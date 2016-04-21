@@ -1,0 +1,10 @@
+#main p {
+  color: $light-grey;
+  width: 97%; }
+  #main p .redbox {
+    background-color: $footer-color;
+    color: $footer-color; }
+
+a:hover {
+    transform: scale(1.1);
+}
